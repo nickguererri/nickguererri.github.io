@@ -1,0 +1,26 @@
+html {
+    color-scheme: dark light;
+    font-family: "REM", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    padding-block: 6rem;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.wrapper {
+    max-width: 960px;
+    margin-inline: auto;
+}
